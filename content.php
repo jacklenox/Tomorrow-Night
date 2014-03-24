@@ -15,7 +15,7 @@
 		<?php endif; ?>
 	</header><!-- .entry-header -->
 
-	<?php if ( is_search() ) : // Only display Excerpts for Search ?>
+	<?php if ( is_search() || is_front_page() ) : // Display excerpts for homepage and search ?>
 	<div class="entry-summary">
 		<?php the_excerpt(); ?>
 	</div><!-- .entry-summary -->
