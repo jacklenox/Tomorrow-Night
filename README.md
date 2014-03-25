@@ -6,7 +6,9 @@ I am using the [Breakpoint](http://breakpoint-sass.com/) extension for Compass t
 
 I also need to credit and thank Andrej Milnarević as I have used his [Sass & Compass Vertical Rhythm technique](https://medium.com/typography/34fe2f1d2c02).
 
-Built with [_s](http://underscores.me/)
+Built with [_s](http://underscores.me/).
+
+For the not-quite-intrigued-enough-to-bother-downloading, you can see the theme in action on my blog, [have_posts()](http://haveposts.com/).
 
 ## How to install the theme
 
