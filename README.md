@@ -1,5 +1,7 @@
 # Tomorrow Night
 
+![Screenshot of Tomorrow Night](https://raw.githubusercontent.com/jacklenox/Tomorrow-Night/master/screenshot.png)
+
 Developer-slanted theme, based on the [Tomorrow Night](https://github.com/ChrisKempson/Tomorrow-Theme) editor theme by Chris Kempson. Compiled with some lovely [Compass](http://compass-style.org/) and [Gulp](http://gulpjs.com/).
 
 I am using the [Breakpoint](http://breakpoint-sass.com/) extension for Compass to manage the responsive type sizing.
